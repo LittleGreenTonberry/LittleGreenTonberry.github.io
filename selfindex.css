@@ -1,0 +1,53 @@
+.header-home > .title {
+  font-size: 16px;
+  margin: 0 0 13px;
+}
+.header-home {
+  text-align: center;
+  position: relative;
+}
+body {
+  text-align: center;
+  padding-top: 20px;
+}
+img {
+  margin: 40px 0px 0px 0px;
+  border: 0px solid white;
+  border-radius: 20px;
+}
+h1 {
+  letter-spacing: 3px;
+  color: teal;
+  font-weight: 700;
+}
+h2 {
+  line-height: 1;
+  font-size: 18px;
+}
+h1,
+h2 {
+  font-family: 'Permanent Marker', cursive;
+}
+.social-links > .link {
+  margin: 0;
+  text-decoration: none;
+  position: relative;
+  display: inline-block;
+  height: 40px;
+  width: 40px;
+}
+.nav-home {
+  margin-top: 40px;
+  text-align: center;
+  font-size: 16px;
+  color: aquamarine;
+}
+.footer-main {
+  padding: 40px 0;
+  margin: 40px 0 0;
+  font-size: 12px;
+  color: paleturquoise;
+  font-weight: 300;
+  text-align: center;
+  position: relative;
+}
