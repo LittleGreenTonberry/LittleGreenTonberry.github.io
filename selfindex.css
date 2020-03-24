@@ -39,8 +39,15 @@ h2 {
 .nav-home {
   margin-top: 40px;
   text-align: center;
-  font-size: 16px;
+  font-size: 20px;
   color: aquamarine;
+}
+ul {
+  padding: 10px;
+}
+li {
+  display: inline;
+  padding: 0px 10px 0px 10px;
 }
 .footer-main {
   padding: 40px 0;
